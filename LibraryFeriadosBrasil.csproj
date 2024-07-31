@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+		<PropertyGroup>
+				<TargetFramework>net6.0</TargetFramework>
+				<ImplicitUsings>enable</ImplicitUsings>
+				<Nullable>enable</Nullable>
+				<Description>Biblioteca usada para identificar se uma data é um feriado brasileirou e/ou feriados do ano</Description>
+				<PackageLicenseFile>LICENSE.txt</PackageLicenseFile>
+				<RepositoryUrl>https://github.com/JupSilv/LibraryFeriadosBR</RepositoryUrl>
+				<PackageProjectUrl>https://github.com/JupSilv/LibraryFeriadosBR</PackageProjectUrl>
+				<PackageTags>holiday;feriado;brasil</PackageTags>
+				<PackageReadmeFile>README.md</PackageReadmeFile>
+				<Authors>Julio Silva</Authors>
+				<AssemblyVersion>1.0.0.2</AssemblyVersion>
+				<FileVersion>1.0.0.2</FileVersion>
+				<Title>LibraryFeriadosBR</Title>
+				<version>1.0.0.2</version>
+		</PropertyGroup>
+		<ItemGroup>
+				<None Include="LICENSE.txt" Pack="true" PackagePath="/" />
+				<None Include="README.md" Pack="true" PackagePath="/" />
+		</ItemGroup>
+</Project>

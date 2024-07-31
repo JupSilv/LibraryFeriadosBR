@@ -1,0 +1,11 @@
+C:\Dev\LibraryFeriadosBrasil\bin\Release\net6.0\LibraryFeriadosBrasil.deps.json
+C:\Dev\LibraryFeriadosBrasil\bin\Release\net6.0\LibraryFeriadosBrasil.dll
+C:\Dev\LibraryFeriadosBrasil\bin\Release\net6.0\LibraryFeriadosBrasil.pdb
+C:\Dev\LibraryFeriadosBrasil\obj\Release\net6.0\LibraryFeriadosBrasil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\LibraryFeriadosBrasil\obj\Release\net6.0\LibraryFeriadosBrasil.AssemblyInfoInputs.cache
+C:\Dev\LibraryFeriadosBrasil\obj\Release\net6.0\LibraryFeriadosBrasil.AssemblyInfo.cs
+C:\Dev\LibraryFeriadosBrasil\obj\Release\net6.0\LibraryFeriadosBrasil.csproj.CoreCompileInputs.cache
+C:\Dev\LibraryFeriadosBrasil\obj\Release\net6.0\LibraryFeriadosBrasil.dll
+C:\Dev\LibraryFeriadosBrasil\obj\Release\net6.0\refint\LibraryFeriadosBrasil.dll
+C:\Dev\LibraryFeriadosBrasil\obj\Release\net6.0\LibraryFeriadosBrasil.pdb
+C:\Dev\LibraryFeriadosBrasil\obj\Release\net6.0\ref\LibraryFeriadosBrasil.dll

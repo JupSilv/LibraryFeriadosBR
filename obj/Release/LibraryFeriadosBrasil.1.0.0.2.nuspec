@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>LibraryFeriadosBrasil</id>
+    <version>1.0.0.2</version>
+    <title>LibraryFeriadosBR</title>
+    <authors>Julio Silva</authors>
+    <license type="file">LICENSE.txt</license>
+    <licenseUrl>https://aka.ms/deprecateLicenseUrl</licenseUrl>
+    <readme>README.md</readme>
+    <projectUrl>https://github.com/JupSilv/LibraryFeriadosBR</projectUrl>
+    <description>Biblioteca usada para identificar se uma data é um feriado brasileirou e/ou feriados do ano</description>
+    <tags>holiday feriado brasil</tags>
+    <repository type="git" url="https://github.com/JupSilv/LibraryFeriadosBR" />
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Dev\LibraryFeriadosBrasil\bin\Release\net6.0\LibraryFeriadosBrasil.dll" target="lib\net6.0\LibraryFeriadosBrasil.dll" />
+    <file src="C:\Dev\LibraryFeriadosBrasil\LICENSE.txt" target="\LICENSE.txt" />
+    <file src="C:\Dev\LibraryFeriadosBrasil\README.md" target="\README.md" />
+  </files>
+</package>
